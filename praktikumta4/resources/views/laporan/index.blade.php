@@ -11,3 +11,5 @@
         <x-alert type="error" message="Belum ada laporan banjir." />
     @endforelse
 @endsection
+
+
