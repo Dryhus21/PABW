@@ -1,0 +1,6 @@
+{
+    "UserManagement": true,
+    "Pendaftaran": true,
+    "Composer": true,
+    "DumpAutoload": true
+}
